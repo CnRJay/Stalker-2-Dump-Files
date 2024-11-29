@@ -1,0 +1,6 @@
+All Grenade SID's.
+Type XSpawnItemNearPlayerBySID SIDHERE in the console to spawn an item.
+
+Grenade
+GrenadeRGD5
+GrenadeF1

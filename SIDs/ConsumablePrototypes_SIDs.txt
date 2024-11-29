@@ -1,0 +1,30 @@
+All Consumable SID's.
+Type XSpawnItemNearPlayerBySID SIDHERE in the console to spawn an item.
+
+Bread
+FreshBread
+CannedFood
+SpoiledCannedFood
+Vodka
+Sausage
+Energetic
+Energetic_Limited
+Bandage
+FoodSoftItem
+Medkit
+ArmyMedkit
+EcoMedkit
+Injector
+Antirad
+Hercules
+Cinnamon
+Beer
+Water
+BottleItem
+Milk
+MetallTinItem
+PSYBlocker
+PillsItem
+GuitarUsable
+GuitarMesh
+GuitarMeshStatic

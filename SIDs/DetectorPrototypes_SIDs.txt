@@ -1,0 +1,15 @@
+All Detector SID's.
+Type XSpawnItemNearPlayerBySID SIDHERE in the console to spawn an item.
+
+Device
+Veles
+DetectorVeles
+DetectorVeles_Static
+Bear
+DetectorBear
+DetectorBear_Static
+Echo
+DetectorEcho
+DetectorEcho_Static
+Gilka
+Gilka_Static

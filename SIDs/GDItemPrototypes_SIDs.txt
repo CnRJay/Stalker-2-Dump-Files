@@ -1,0 +1,7 @@
+All GDItem SID's.
+Type XSpawnItemNearPlayerBySID SIDHERE in the console to spawn an item.
+
+VortexDudePDA
+SwampNoteCorpsePDA
+ConcretePlantNoteCorpsePDA
+BasePDA
