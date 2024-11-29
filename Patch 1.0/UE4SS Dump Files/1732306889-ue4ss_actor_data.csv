@@ -1,0 +1,6 @@
+---,Actor,Location,Rotation,Scale,Meshes
+Row_0,/Script/CoreUObject.Class'/Script/Engine.DefaultPhysicsVolume',"(X=0.000000,Y=0.000000,Z=0.000000)","(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)","(X=1.000000,Y=1.000000,Z=1.000000)",""
+Row_1,/Script/CoreUObject.Class'/Script/NavigationSystem.AbstractNavData',"(X=0.000000,Y=0.000000,Z=0.000000)","(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)","(X=1.000000,Y=1.000000,Z=1.000000)",""
+Row_2,/Script/CoreUObject.Class'/Script/Engine.PlayerController',"(X=0.000000,Y=0.000000,Z=0.000000)","(Pitch=89.900002,Yaw=113.038704,Roll=-0.000000)","(X=1.000000,Y=1.000000,Z=1.000000)",""
+Row_3,/Script/CoreUObject.Class'/Script/Engine.PlayerCameraManager',"(X=0.000000,Y=0.000000,Z=0.000000)","(Pitch=89.900002,Yaw=113.038704,Roll=-0.000000)","(X=1.000000,Y=1.000000,Z=1.000000)",""
+Row_4,/Script/CoreUObject.Class'/Script/Engine.SpectatorPawn',"(X=0.000000,Y=0.000000,Z=0.000000)","(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)","(X=1.000000,Y=1.000000,Z=1.000000)",""
